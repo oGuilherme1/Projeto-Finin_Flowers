@@ -17,5 +17,14 @@ export default {
         },
     },
 
+    theme: {
+        extend: {
+          colors: {
+            verde: '#647723',
+            marrom: '#feD490'
+          },
+        },
+      },
+
     plugins: [forms],
 };
