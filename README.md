@@ -13,6 +13,8 @@
 
 [Sprint de tarefas no Jira](https://senaimgaluno-0000939921.atlassian.net/jira/software/projects/PFF/boards/2)
 
+[Editor de texto - PDF](https://docs.google.com/document/d/1e0vq5Y0J-K2Mjoc9NpTGCUUvHqvE7M2DrFBEHavHj5E/edit?usp=sharing)
+
 _________________________________________________________________________________
 
 
@@ -43,7 +45,7 @@ ________________________________________________________________________________
     - [ ] Tela de Venda
     - [ ] Tela dashboard (cadastrar, alterar, ativar, excluir e ver)
 - [ ] Slides do projeto
-- [ ] PDF com:
+- [ ] [PDF com:](https://docs.google.com/document/d/1e0vq5Y0J-K2Mjoc9NpTGCUUvHqvE7M2DrFBEHavHj5E/edit?usp=sharing)
     - [ ] Nome da empresa, integrantes e slogan
     - [ ] DER do projeto
     - [x] Modelagem do sistema -> [miro aqui](https://miro.com/welcomeonboard/R1VOUTd0Mm5Sak9pV0poQndJc0RYTEhDUVVjdlpZS3NTUWlrU1dQdUtOUWZSUzN5aEhZTzFKcmV0ZFBOYjk1cXwzNDU4NzY0NTM5MjM4MjUzMjU5fDI=?share_link_id=721455019920)
