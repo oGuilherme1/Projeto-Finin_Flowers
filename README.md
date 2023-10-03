@@ -5,7 +5,7 @@
 
 [Figma do projeto](https://www.figma.com/file/VkkaBPd4MW59rKbYzMsOOx/gs?type=design&node-id=0%3A1&mode=design&t=hbXAzRvZCQSsLJJx-1)
 
-[Canva do Slide](https://www.canva.com/design/DAFv30pz_wY/L7eK7qZpgHgQ8Vp0PBi2zA/edit?utm_content=DAFv30pz_wY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Canva do Slide](https://www.canva.com/design/DAFtuDDtkSg/r2eZeDKxcy8WGYvOcHWqKA/edit?utm_content=DAFtuDDtkSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 [Canvas do Sebrae](https://canvas-apps.pr.sebrae.com.br/meus-canvas-compartilhados)
 
@@ -29,7 +29,18 @@ git clone https://github.com/gsocria/Projeto-Finin_Flowers.git
 ```
 composer install
 ```
-
+```
+cp .env.example .env
+```
+```
+php artisan key:generate
+```
+```
+npm install
+```
+```
+npm run dev
+```
 ```
 php artisan serve --port=8000
 ```
