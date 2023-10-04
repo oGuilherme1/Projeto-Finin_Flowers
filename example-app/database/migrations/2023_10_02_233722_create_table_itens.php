@@ -16,6 +16,8 @@ return new class extends Migration
             $table->timestamps();
             $table->string('nome', 100);
             $table->foreignId('categoria_id')->constrained('table_categorias');
+            $table->string('descricao', 255);
+            $table->string('imagem')->nullable();
             $table->decimal('valor');
             $table->string('quantidade');
             $table->enum('status', ['ativo', 'inativo'])->default('ativo');
