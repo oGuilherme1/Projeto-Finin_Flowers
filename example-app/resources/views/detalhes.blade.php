@@ -14,22 +14,28 @@
     <title>Landing | Tailwind Starter Kit by Creative Tim</title>
 </head>
 
-<body class="bg-green-100 text-gray-800">
-    <div class="mx-auto max-w-2xl p-4 items-center flex flex-col p-5 bg-emerald-700 rounded mt-4">
-        <h1 class="text-3xl font-semibold">{{ $produto->nome }}</h1>
-        <p class="text-gray-500">{{ $produto->descricao }}</p>
-        <p class="text-green-100 font-bold mt-2">Preço: ${{ $produto->valor }}</p>
+<body class="bg-white text-gray-800">
+<div class="mx-auto max-w-2xl p-4 items-center flex flex-col p-5 bg-green-500 rounded mt-4">
+    <h1 class="text-3xl font-semibold">{{ $produto->nome }}</h1>
 
-        <form action="{{ route('itens.store') }}" method="POST">
-            @csrf
-            <input type="hidden" name="user_id" value="{{ auth()->user()->id }}">
-            <input type="hidden" name="item_id" value="{{ $produto->id }}">
-            <input type="hidden" name="valor" value="{{ $produto->valor }}">
+    <!-- Adicione a imagem do produto aqui -->
+    <img src="{{ $produto->imagem }}" alt="{{ $produto->nome }}" class="mt-4 rounded-lg w-full h-auto" />
 
-            <button type="submit" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-4">
-                Comprar
-            </button>
-        </form>
-    </div>
+    <p class="text-green-100 font-bold mt-2">Preço: ${{ $produto->valor }}</p>
+
+    <p class="text-gray-500 mt-4 max-w-2xl p-2">{{ $produto->descricao }}</p>
+
+    <form action="{{ route('itens.store') }}" method="POST">
+        @csrf
+        <input type="hidden" name="user_id" value="{{ auth()->user()->id }}">
+        <input type="hidden" name="item_id" value="{{ $produto->id }}">
+        <input type="hidden" name="valor" value="{{ $produto->valor }}">
+
+        <button type="submit" class="bg-green-800 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-4">
+            Enviar Receita Medica
+        </button>
+    </form>
+</div>
+
 </body>
 </html>

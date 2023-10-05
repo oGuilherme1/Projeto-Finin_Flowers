@@ -19,10 +19,10 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('home');
-});
+})->name('home');
 
-Route::get('/dashboard', function () {
-    return view('dashboard');
+Route::get('/categorias', function () {
+    return view('categorias');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 Route::middleware('auth')->group(function () {
