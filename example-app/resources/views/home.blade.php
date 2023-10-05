@@ -82,10 +82,10 @@
                                 <div class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-blue-400">
                                     <i class="fas fa-retweet"></i>
                                 </div>
-                                <h6 class="text-xl font-semibold">Free Revisions</h6>
+                                <h6 class="text-xl font-semibold">Revisões Gratuitas</h6>
                                 <p class="mt-2 mb-4 text-gray-600">
-                                    Keep you user engaged by providing meaningful information.
-                                    Remember that by this time, the user is curious.
+                                    Mantenha seu usuário envolvido, fornecendo informações significativas.
+                                    Lembre-se que a essa altura o usuário está curioso.
                                 </p>
                             </div>
                         </div>
@@ -96,10 +96,10 @@
                                 <div class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-green-400">
                                     <i class="fas fa-fingerprint"></i>
                                 </div>
-                                <h6 class="text-xl font-semibold">Verified Company</h6>
+                                <h6 class="text-xl font-semibold">Empresa verificada</h6>
                                 <p class="mt-2 mb-4 text-gray-600">
-                                    Write a few lines about each one. A paragraph describing a
-                                    feature will be enough. Keep you user engaged!
+                                    Escreva algumas linhas sobre cada um. Um parágrafo que descreve um
+                                    recurso será suficiente. Mantenha seu usuário engajado!
                                 </p>
                             </div>
                         </div>
@@ -126,12 +126,12 @@
                                     <polygon points="-30,95 583,95 583,65" class="text-green-500 fill-current"></polygon>
                                 </svg>
                                 <h4 class="text-xl font-bold text-white">
-                                    Top Notch Services
+                                    Serviços de primeira linha
                                 </h4>
                                 <p class="text-md font-light mt-2 text-white">
-                                    The Arctic Ocean freezes every winter and much of the
-                                    sea-ice then thaws every summer, and that process will
-                                    continue whatever happens.
+                                    O Oceano Ártico congela todos os invernos e grande parte do
+                                    o gelo marinho descongela a cada verão, e esse processo
+                                    continue aconteça o que acontecer.
                                 </p>
                             </blockquote>
                         </div>
@@ -143,11 +143,11 @@
             <div class="container mx-auto px-4">
                 <div class="flex flex-wrap justify-center text-center mb-24">
                     <div class="w-full lg:w-6/12 px-4">
-                        <h2 class="text-4xl font-semibold">Here are our heroes</h2>
+                        <h2 class="text-4xl font-semibold">Aqui estão nossos heróis</h2>
                         <p class="text-lg leading-relaxed m-4 text-gray-600">
-                            According to the National Oceanic and Atmospheric
-                            Administration, Ted, Scambos, NSIDClead scentist, puts the
-                            potentially record maximum.
+                            De acordo com o National Oceanic and Atmospheric
+                            Administração, Ted, Scambos, perfumista do NSIDLead, coloca o
+                            potencialmente registrar o máximo.
                         </p>
                     </div>
                 </div>
@@ -236,11 +236,11 @@
             <div class="container mx-auto px-4 lg:pt-24 lg:pb-64">
                 <div class="flex flex-wrap text-center justify-center">
                     <div class="w-full lg:w-6/12 px-4">
-                        <h2 class="text-4xl font-semibold text-green-500">Build something</h2>
+                        <h2 class="text-4xl font-semibold text-green-500">Construa algo</h2>
                         <p class="text-lg leading-relaxed mt-4 mb-4 text-gray-500">
-                            Put the potentially record low maximum sea ice extent tihs year
-                            down to low ice. According to the National Oceanic and
-                            Atmospheric Administration, Ted, Scambos.
+                            Coloque o potencial recorde de extensão máxima de gelo marinho neste ano
+                            até o gelo baixo. De acordo com o National Oceanic e
+                            Administração Atmosférica, Ted, Scambos.
                         </p>
                     </div>
                 </div>
@@ -250,11 +250,11 @@
                             <i class="fas fa-medal text-xl"></i>
                         </div>
                         <h6 class="text-xl mt-5 font-semibold text-green-500">
-                            Excelent Services
+                            Excelentes serviços
                         </h6>
                         <p class="mt-2 mb-4 text-gray-500">
-                            Some quick example text to build on the card title and make up
-                            the bulk of the card's content.
+                            Algum texto de exemplo rápido para desenvolver o título do cartão e compor
+                            a maior parte do conteúdo do cartão.
                         </p>
                     </div>
                     <div class="w-full lg:w-3/12 px-4 text-center">
@@ -262,21 +262,21 @@
                             <i class="fas fa-poll text-xl"></i>
                         </div>
                         <h5 class="text-xl mt-5 font-semibold text-green-500">
-                            Grow your market
+                            Aumente seu mercado
                         </h5>
                         <p class="mt-2 mb-4 text-gray-500">
-                            Some quick example text to build on the card title and make up
-                            the bulk of the card's content.
+                            Algum texto de exemplo rápido para desenvolver o título do cartão e compor
+                            a maior parte do conteúdo do cartão.
                         </p>
                     </div>
                     <div class="w-full lg:w-3/12 px-4 text-center">
                         <div class="text-gray-900 p-3 w-12 h-12 shadow-lg rounded-full bg-white inline-flex items-center justify-center">
                             <i class="fas fa-lightbulb text-xl"></i>
                         </div>
-                        <h5 class="text-xl mt-5 font-semibold text-green-500">Launch time</h5>
+                        <h5 class="text-xl mt-5 font-semibold text-green-500">Hora do almoço</h5>
                         <p class="mt-2 mb-4 text-gray-500">
-                            Some quick example text to build on the card title and make up
-                            the bulk of the card's content.
+                            Algum texto de exemplo rápido para desenvolver o título do cartão e compor
+                            a maior parte do conteúdo do cartão.
                         </p>
                     </div>
                 </div>
@@ -288,22 +288,22 @@
                     <div class="w-full lg:w-6/12 px-4">
                         <div class="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-white">
                             <div class="flex-auto p-5 lg:p-10">
-                                <h4 class="text-2xl font-semibold">Want to work with us?</h4>
+                                <h4 class="text-2xl font-semibold">Quer trabalhar conosco?</h4>
                                 <p class="leading-relaxed mt-1 mb-4 text-gray-600">
-                                    Complete this form and we will get back to you in 24 hours.
+                                    Preencha este formulário e entraremos em contato com você em 24 horas.
                                 </p>
                                 <div class="relative w-full mb-3 mt-8">
-                                    <label class="block uppercase text-gray-700 text-xs font-bold mb-2" for="full-name">Full Name</label><input type="text" class="border-0 px-3 py-3 placeholder-gray-400 text-gray-700 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full" placeholder="Full Name" style="transition: all 0.15s ease 0s;" />
+                                    <label class="block uppercase text-gray-700 text-xs font-bold mb-2" for="full-name">Nome Completo</label><input type="text" class="border-0 px-3 py-3 placeholder-gray-400 text-gray-700 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full" placeholder="Full Name" style="transition: all 0.15s ease 0s;" />
                                 </div>
                                 <div class="relative w-full mb-3">
                                     <label class="block uppercase text-gray-700 text-xs font-bold mb-2" for="email">Email</label><input type="email" class="border-0 px-3 py-3 placeholder-gray-400 text-gray-700 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full" placeholder="Email" style="transition: all 0.15s ease 0s;" />
                                 </div>
                                 <div class="relative w-full mb-3">
-                                    <label class="block uppercase text-gray-700 text-xs font-bold mb-2" for="message">Message</label><textarea rows="4" cols="80" class="border-0 px-3 py-3 placeholder-gray-400 text-gray-700 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full" placeholder="Type a message..."></textarea>
+                                    <label class="block uppercase text-gray-700 text-xs font-bold mb-2" for="message">Mensagem</label><textarea rows="4" cols="80" class="border-0 px-3 py-3 placeholder-gray-400 text-gray-700 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full" placeholder="Type a message..."></textarea>
                                 </div>
                                 <div class="text-center mt-6">
                                     <button class="bg-green-500 text-white active:bg-gray-700 text-sm font-bold uppercase px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1" type="button" style="transition: all 0.15s ease 0s;">
-                                        Send Message
+                                        Enviar Mensagem
                                     </button>
                                 </div>
                             </div>
@@ -322,9 +322,9 @@
         <div class="container mx-auto px-4">
             <div class="flex flex-wrap">
                 <div class="w-full lg:w-6/12 px-4">
-                    <h4 class="text-3xl font-semibold">Let's keep in touch!</h4>
+                    <h4 class="text-3xl font-semibold">Vamos manter contato!</h4>
                     <h5 class="text-lg mt-0 mb-2 text-gray-700">
-                        Find us on any of these platforms, we respond 1-2 business days.
+                        Encontre-nos em qualquer uma dessas plataformas, respondemos em 1 a 2 dias úteis.
                     </h5>
                     <div class="mt-6">
                         <button class="bg-white text-blue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 p-3" type="button">
@@ -338,10 +338,10 @@
                 <div class="w-full lg:w-6/12 px-4">
                     <div class="flex flex-wrap items-top mb-6">
                         <div class="w-full lg:w-4/12 px-4 ml-auto">
-                            <span class="block uppercase text-gray-600 text-sm font-semibold mb-2">Useful Links</span>
+                            <span class="block uppercase text-gray-600 text-sm font-semibold mb-2">Links Úteis</span>
                             <ul class="list-unstyled">
                                 <li>
-                                    <a class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm" href="https://www.creative-tim.com/presentation">About Us</a>
+                                    <a class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm" href="https://www.creative-tim.com/presentation">Sobre Nós</a>
                                 </li>
                                 <li>
                                     <a class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm" href="https://blog.creative-tim.com">Blog</a>
@@ -350,24 +350,24 @@
                                     <a class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm" href="https://www.github.com/creativetimofficial">Github</a>
                                 </li>
                                 <li>
-                                    <a class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm" href="https://www.creative-tim.com/bootstrap-themes/free">Free Products</a>
+                                    <a class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm" href="https://www.creative-tim.com/bootstrap-themes/free">Produtos Gratuitos</a>
                                 </li>
                             </ul>
                         </div>
                         <div class="w-full lg:w-4/12 px-4">
-                            <span class="block uppercase text-gray-600 text-sm font-semibold mb-2">Other Resources</span>
+                            <span class="block uppercase text-gray-600 text-sm font-semibold mb-2">Outros recursos</span>
                             <ul class="list-unstyled">
                                 <li>
-                                    <a class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm" href="https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md">MIT License</a>
+                                    <a class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm" href="https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md">Licença MIT</a>
                                 </li>
                                 <li>
-                                    <a class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm" href="https://creative-tim.com/terms">Terms &amp; Conditions</a>
+                                    <a class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm" href="https://creative-tim.com/terms">Termos e Condições Condições</a>
                                 </li>
                                 <li>
-                                    <a class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm" href="https://creative-tim.com/privacy">Privacy Policy</a>
+                                    <a class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm" href="https://creative-tim.com/privacy">Política de Privacidade</a>
                                 </li>
                                 <li>
-                                    <a class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm" href="https://creative-tim.com/contact-us">Contact Us</a>
+                                    <a class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm" href="https://creative-tim.com/contact-us">Contate-nos</a>
                                 </li>
                             </ul>
                         </div>
@@ -379,7 +379,7 @@
                 <div class="w-full md:w-4/12 px-4 mx-auto text-center">
                     <div class="text-sm text-gray-600 font-semibold py-1">
                         Copyright © 2019 Tailwind Starter Kit by
-                        <a href="https://www.creative-tim.com" class="text-gray-600 hover:text-gray-900">Creative Tim</a>.
+                        <a href="https://www.creative-tim.com" class="text-gray-600 hover:text-gray-900">Tim criativo</a>.
                     </div>
                 </div>
             </div>
